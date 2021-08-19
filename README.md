@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and geospatial systems
 - 🌱 I’m currently learning algorithms
 - 💞️ I’m not looking to collaborate on ...
-- 📫 How to reach me: alexei.burevcev@mirea.ru
+- 📫 How to reach me: alexei.burevcev@gmail.com
 
 <!---
 AlexeiBuravcev/AlexeiBuravcev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
