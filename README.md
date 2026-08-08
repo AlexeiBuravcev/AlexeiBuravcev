@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexeiBuravcev
-- 👀 I’m interested in programming and geospatial systems
-- 🌱 I’m currently learning algorithms
+- 👀 I’m interested in programming, geospatial systems and AI
+- 🌱 I’m currently learning software development using AI
 - 💞️ I’m not looking to collaborate on ...
 - 📫 How to reach me: alexei.burevcev@gmail.com
 
