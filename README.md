@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, geospatial systems and AI
 - 🌱 I’m currently learning software development using AI
 - 💞️ I’m not looking to collaborate on ...
-- 📫 How to reach me: alexei.burevcev@gmail.com
+- 📫 How to reach me: alexei.burevcev@gmail.com, telegram: @alexeiburavcev
 - My scientific publications: https://www.elibrary.ru/author_items.asp?authorid=1022335
 
 <!---
